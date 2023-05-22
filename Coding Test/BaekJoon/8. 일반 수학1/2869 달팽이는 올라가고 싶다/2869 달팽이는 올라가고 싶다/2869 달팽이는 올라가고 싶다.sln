@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2869 달팽이는 올라가고 싶다", "2869 달팽이는 올라가고 싶다\2869 달팽이는 올라가고 싶다.csproj", "{FB51F2D3-4C01-4557-A478-BDE331310241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB51F2D3-4C01-4557-A478-BDE331310241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB51F2D3-4C01-4557-A478-BDE331310241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB51F2D3-4C01-4557-A478-BDE331310241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB51F2D3-4C01-4557-A478-BDE331310241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F361911A-60F2-4420-A735-37373F90A3F7}
+	EndGlobalSection
+EndGlobal
