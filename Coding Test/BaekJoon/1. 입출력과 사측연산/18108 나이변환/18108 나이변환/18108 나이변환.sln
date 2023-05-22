@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18108 나이변환", "18108 나이변환\18108 나이변환.csproj", "{F6E867AC-4CD9-4048-B86E-D1F5CE6C1B68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E867AC-4CD9-4048-B86E-D1F5CE6C1B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E867AC-4CD9-4048-B86E-D1F5CE6C1B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E867AC-4CD9-4048-B86E-D1F5CE6C1B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E867AC-4CD9-4048-B86E-D1F5CE6C1B68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B1148E-60C5-47D6-BF8C-E7A101B195BB}
+	EndGlobalSection
+EndGlobal

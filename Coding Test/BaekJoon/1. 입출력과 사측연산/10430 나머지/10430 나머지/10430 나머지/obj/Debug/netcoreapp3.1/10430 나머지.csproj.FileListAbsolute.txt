@@ -1,0 +1,14 @@
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\bin\Debug\netcoreapp3.1\10430 나머지.exe
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\bin\Debug\netcoreapp3.1\10430 나머지.deps.json
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\bin\Debug\netcoreapp3.1\10430 나머지.runtimeconfig.json
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\bin\Debug\netcoreapp3.1\10430 나머지.runtimeconfig.dev.json
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\bin\Debug\netcoreapp3.1\10430 나머지.dll
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\bin\Debug\netcoreapp3.1\10430 나머지.pdb
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\obj\Debug\netcoreapp3.1\10430 나머지.csproj.AssemblyReference.cache
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\obj\Debug\netcoreapp3.1\10430 나머지.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\obj\Debug\netcoreapp3.1\10430 나머지.AssemblyInfoInputs.cache
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\obj\Debug\netcoreapp3.1\10430 나머지.AssemblyInfo.cs
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\obj\Debug\netcoreapp3.1\10430 나머지.csproj.CoreCompileInputs.cache
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\obj\Debug\netcoreapp3.1\10430 나머지.dll
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\obj\Debug\netcoreapp3.1\10430 나머지.pdb
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\1. 입출력과 사측연산\10430 나머지\10430 나머지\10430 나머지\obj\Debug\netcoreapp3.1\10430 나머지.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "10430 나머지/1.0.0": {
+        "runtime": {
+          "10430 나머지.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10430 나머지/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
