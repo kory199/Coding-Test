@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "11654 아스키 코드/1.0.0": {
+        "runtime": {
+          "11654 아스키 코드.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11654 아스키 코드/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

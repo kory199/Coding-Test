@@ -1,0 +1,14 @@
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\bin\Debug\netcoreapp3.1\11654 아스키 코드.exe
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\bin\Debug\netcoreapp3.1\11654 아스키 코드.deps.json
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\bin\Debug\netcoreapp3.1\11654 아스키 코드.runtimeconfig.json
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\bin\Debug\netcoreapp3.1\11654 아스키 코드.runtimeconfig.dev.json
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\bin\Debug\netcoreapp3.1\11654 아스키 코드.dll
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\bin\Debug\netcoreapp3.1\11654 아스키 코드.pdb
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\obj\Debug\netcoreapp3.1\11654 아스키 코드.csproj.AssemblyReference.cache
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\obj\Debug\netcoreapp3.1\11654 아스키 코드.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\obj\Debug\netcoreapp3.1\11654 아스키 코드.AssemblyInfoInputs.cache
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\obj\Debug\netcoreapp3.1\11654 아스키 코드.AssemblyInfo.cs
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\obj\Debug\netcoreapp3.1\11654 아스키 코드.csproj.CoreCompileInputs.cache
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\obj\Debug\netcoreapp3.1\11654 아스키 코드.dll
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\obj\Debug\netcoreapp3.1\11654 아스키 코드.pdb
+C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\5. 문자열\11654 아스키 코드\11654 아스키 코드\11654 아스키 코드\obj\Debug\netcoreapp3.1\11654 아스키 코드.genruntimeconfig.cache

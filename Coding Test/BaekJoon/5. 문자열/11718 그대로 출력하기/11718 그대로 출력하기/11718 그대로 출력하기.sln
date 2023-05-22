@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11718 그대로 출력하기", "11718 그대로 출력하기\11718 그대로 출력하기.csproj", "{0E3E678D-F500-49BD-BC82-AB63474D1723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E3E678D-F500-49BD-BC82-AB63474D1723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3E678D-F500-49BD-BC82-AB63474D1723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3E678D-F500-49BD-BC82-AB63474D1723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3E678D-F500-49BD-BC82-AB63474D1723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B0EDD0-8020-4A77-81F5-DB8CFF3B72C7}
+	EndGlobalSection
+EndGlobal
