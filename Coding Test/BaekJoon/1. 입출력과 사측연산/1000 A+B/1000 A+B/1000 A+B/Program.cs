@@ -2,7 +2,7 @@
 
 namespace _1000_A_B
 {
-    class Program
+    class 1000
     {
         static void Main(string[] args)
         {
