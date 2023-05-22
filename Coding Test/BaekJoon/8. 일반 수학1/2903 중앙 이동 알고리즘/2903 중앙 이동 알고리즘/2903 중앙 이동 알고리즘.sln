@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2903 중앙 이동 알고리즘", "2903 중앙 이동 알고리즘\2903 중앙 이동 알고리즘.csproj", "{F423B005-A19E-4EB3-8216-0D4D3E102ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F423B005-A19E-4EB3-8216-0D4D3E102ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F423B005-A19E-4EB3-8216-0D4D3E102ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F423B005-A19E-4EB3-8216-0D4D3E102ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F423B005-A19E-4EB3-8216-0D4D3E102ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CFDA126-B1E3-4274-9C8A-54A74278421A}
+	EndGlobalSection
+EndGlobal
