@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cD1uM2l7oJbIlO22S1Q/jn8ssbR4SPLw4rxpZVq0APv19vEAAp98s29Qjpy0TAVmqubF5/A6HxeUg8Lggahj2g==",
+  "dgSpecHash": "10gXKfML6xZ35ZDQAq8IVMmz0tc829hYe0TmeVEOqAIgJkMIj6yN9FF8yWX8Ce8Z8EzOIxmKmgWgvT9L2ZyHMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\SSH\\Desktop\\Coding Test\\kory199-Coding-Test\\Coding Test\\BaekJoon\\2. 조건문\\2480 주사위 세개\\2480 주사위 세개\\2480 주사위 세개\\2480 주사위 세개.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\SSH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\SSH\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SSH\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SSH\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

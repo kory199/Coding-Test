@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = _2480_주사위_세개
+build_property.ProjectDir = C:\Users\SSH\Desktop\Coding Test\kory199-Coding-Test\Coding Test\BaekJoon\2. 조건문\2480 주사위 세개\2480 주사위 세개\2480 주사위 세개\
