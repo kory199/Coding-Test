@@ -10,8 +10,10 @@ namespace 프로그래머스
     {
         static void Main(string[] args)
         {
-            int[] A = { -2, 3, 0, 2, -5 };
-            LV1삼총사.solution(A);
+            string[] BB = { "OXXO", "XSXO", "XXXX" };
+            string[] AA = { "E 1", "S 1" };
+           
+            LV1공원산책.solution(BB,AA);
         }
     }
 }
