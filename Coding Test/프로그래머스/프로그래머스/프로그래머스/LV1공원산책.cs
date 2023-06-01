@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace 프로그래머스
 {
-    class Program
+    class LV1공원산책
     {
-        static void Main(string[] args)
+        public int[] solution(string[] park, string[] routes)
         {
-            int[] A = { -2, 3, 0, 2, -5 };
-            LV1삼총사.solution(A);
+            int[] answer = new int[] { };
+            return answer;
         }
     }
 }
