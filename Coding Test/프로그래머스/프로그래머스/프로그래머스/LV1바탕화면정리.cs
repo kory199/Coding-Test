@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace 프로그래머스
 {
-    class Program
+    class LV1바탕화면정리
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }
