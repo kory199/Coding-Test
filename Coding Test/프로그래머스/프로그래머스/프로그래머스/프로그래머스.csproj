@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TestClass.cs" />
+    <Compile Include="LV1바탕화면정리.cs" />
     <Compile Include="LV1삼총사.cs" />
     <Compile Include="LV1공원산책.cs" />
     <Compile Include="LV1달리기경주.cs" />
