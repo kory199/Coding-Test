@@ -10,8 +10,10 @@ namespace 프로그래머스
     {
         static void Main(string[] args)
         {
-            string[] a = { ".#...", "..#..", "...#." };
-            LV1바탕화면정리.solution(a);
+            int n = 8;
+            int m = 4;
+            int[] section = new int[] { 2, 3, 6 };
+            LV1덧칠하기.solution(n, m, section);
         }
     }
 }
