@@ -10,10 +10,11 @@ namespace 프로그래머스
     {
         static void Main(string[] args)
         {
-            int n = 8;
-            int m = 4;
-            int[] section = new int[] { 2, 3, 6 };
-            LV1덧칠하기.solution(n, m, section);
+
+            string[] K = { "ABACD", "BCEFD" };
+            string[] J = { "ABCD", "AABB" };
+
+            LV1대충만든자판.solution(K,J);
         }
     }
 }
