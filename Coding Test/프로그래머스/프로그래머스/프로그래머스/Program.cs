@@ -11,10 +11,11 @@ namespace 프로그래머스
         static void Main(string[] args)
         {
 
-            string[] K = { "ABACD", "BCEFD" };
-            string[] J = { "ABCD", "AABB" };
+            string[] c1 = { "i", "water", "drink" };
+            string[] c2 = { "want", "to" };
+            string[] g = { "i", "want", "to", "drink", "water" };
 
-            LV1대충만든자판.solution(K,J);
+            LV1카드뭉치.solution(c1, c2, g);
         }
     }
 }
