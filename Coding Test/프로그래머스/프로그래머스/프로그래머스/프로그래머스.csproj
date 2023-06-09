@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="LV1개인정보수집유효기간.cs" />
     <Compile Include="LV1둘만의암호.cs" />
+    <Compile Include="LV1크기가작은부분문자열.cs" />
     <Compile Include="LV2요격시스템.cs" />
     <Compile Include="LV1카드뭉치.cs" />
     <Compile Include="LV1대충만든자판.cs" />
