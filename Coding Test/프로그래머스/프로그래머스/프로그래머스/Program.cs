@@ -10,12 +10,11 @@ namespace 프로그래머스
     {
         static void Main(string[] args)
         {
+            string today = "2022.05.19";
+            string[] terms = { "A 6", "B 12", "C 3" };
+            string[] privacles = { "2021.05.02 A", "2021.07.01 B", "2022.02.19 C", "2022.02.20 C" };
 
-            string[] c1 = { "i", "water", "drink" };
-            string[] c2 = { "want", "to" };
-            string[] g = { "i", "want", "to", "drink", "water" };
-
-            LV1카드뭉치.solution(c1, c2, g);
+            LV1개인정보수집유효기간.solution(today, terms, privacles );
         }
     }
 }
