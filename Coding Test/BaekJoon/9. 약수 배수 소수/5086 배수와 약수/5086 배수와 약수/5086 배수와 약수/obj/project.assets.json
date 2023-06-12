@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UnityProject\\Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수.csproj",
-      "projectName": "5086 배수와 약수",
-      "projectPath": "E:\\UnityProject\\Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수.csproj",
+      "projectUniqueName": "E:\\UnityProject\\Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\배수와 약수.csproj",
+      "projectName": "배수와 약수",
+      "projectPath": "E:\\UnityProject\\Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\배수와 약수.csproj",
       "packagesPath": "C:\\Users\\kory1\\.nuget\\packages\\",
       "outputPath": "E:\\UnityProject\\Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\obj\\",
       "projectStyle": "PackageReference",

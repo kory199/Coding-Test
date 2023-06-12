@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "배수와 약수/1.0.0": {
+        "runtime": {
+          "배수와 약수.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "배수와 약수/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
