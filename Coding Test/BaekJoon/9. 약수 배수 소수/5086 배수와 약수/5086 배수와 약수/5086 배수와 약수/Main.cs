@@ -6,7 +6,7 @@ namespace _5086_배수와_약수
     {
         static void Main(string[] args)
         {
-            _9506약수들의합.Solution();
+            _1978소수찾기.Solution();
         }
     }
 }
