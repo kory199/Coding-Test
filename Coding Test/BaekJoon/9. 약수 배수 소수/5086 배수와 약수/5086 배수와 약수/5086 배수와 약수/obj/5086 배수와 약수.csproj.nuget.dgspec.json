@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SSH\\Desktop\\Coding Test\\kory199-Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수.csproj": {}
+    "E:\\UnityProject\\Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SSH\\Desktop\\Coding Test\\kory199-Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수.csproj": {
+    "E:\\UnityProject\\Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SSH\\Desktop\\Coding Test\\kory199-Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수.csproj",
+        "projectUniqueName": "E:\\UnityProject\\Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수.csproj",
         "projectName": "5086 배수와 약수",
-        "projectPath": "C:\\Users\\SSH\\Desktop\\Coding Test\\kory199-Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수.csproj",
-        "packagesPath": "C:\\Users\\SSH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SSH\\Desktop\\Coding Test\\kory199-Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\obj\\",
+        "projectPath": "E:\\UnityProject\\Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수.csproj",
+        "packagesPath": "C:\\Users\\kory1\\.nuget\\packages\\",
+        "outputPath": "E:\\UnityProject\\Coding-Test\\Coding Test\\BaekJoon\\9. 약수 배수 소수\\5086 배수와 약수\\5086 배수와 약수\\5086 배수와 약수\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SSH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kory1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,16 +45,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

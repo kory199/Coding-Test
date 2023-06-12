@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace _5086_배수와_약수
 {
-    class Program
+    internal class _5086배수와약수
     {
-        static void Main(string[] args)
+        public static void Solution()
         {
             int num1 = 0;
             int num2 = 0;
