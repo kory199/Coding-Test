@@ -6,7 +6,7 @@ namespace _5086_배수와_약수
     {
         static void Main(string[] args)
         {
-            _2581소수.Solution();
+            _11653소인수분해.Solution();
         }
     }
 }
