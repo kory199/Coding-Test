@@ -10,7 +10,7 @@ namespace 기하_직사각형과_삼각형
     {
         static void Main(string[] args)
         {
-            _3009네번째점.Solution();
+            _10101삼각형외우기.Solution();
         }
     }
 }

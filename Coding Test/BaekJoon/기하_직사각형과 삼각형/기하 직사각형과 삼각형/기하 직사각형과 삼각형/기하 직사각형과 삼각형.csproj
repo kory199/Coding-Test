@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,9 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="10101삼각형외우기.cs" />
     <Compile Include="1085직사각형에서탈출.cs" />
+    <Compile Include="15894수학은체육과목입니다.cs" />
     <Compile Include="27323직사각형.cs" />
     <Compile Include="3009네번째점.cs" />
+    <Compile Include="9063대지.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
