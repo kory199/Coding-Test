@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{152EEFC2-A48D-45DA-8092-B37D92937486}</ProjectGuid>
+    <ProjectGuid>{CF8A146A-3258-4D8B-9852-0C99D1896F10}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>시간복잡도</RootNamespace>
-    <AssemblyName>시간복잡도</AssemblyName>
+    <RootNamespace>기하_직사각형과_삼각형</RootNamespace>
+    <AssemblyName>기하 직사각형과 삼각형</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,8 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="알고리즘수업_알고리즘의수행시간1.cs" />
-    <Compile Include="알고리즘수업_알고리즘의수행시간2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
