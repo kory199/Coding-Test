@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1085직사각형에서탈출.cs" />
+    <Compile Include="27323직사각형.cs" />
+    <Compile Include="3009네번째점.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

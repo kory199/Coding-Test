@@ -1,0 +1,7 @@
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\기하_직사각형과 삼각형\기하 직사각형과 삼각형\기하 직사각형과 삼각형\bin\Debug\기하 직사각형과 삼각형.exe.config
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\기하_직사각형과 삼각형\기하 직사각형과 삼각형\기하 직사각형과 삼각형\bin\Debug\기하 직사각형과 삼각형.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\기하_직사각형과 삼각형\기하 직사각형과 삼각형\기하 직사각형과 삼각형\bin\Debug\기하 직사각형과 삼각형.pdb
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\기하_직사각형과 삼각형\기하 직사각형과 삼각형\기하 직사각형과 삼각형\obj\Debug\기하 직사각형과 삼각형.csproj.AssemblyReference.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\기하_직사각형과 삼각형\기하 직사각형과 삼각형\기하 직사각형과 삼각형\obj\Debug\기하 직사각형과 삼각형.csproj.CoreCompileInputs.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\기하_직사각형과 삼각형\기하 직사각형과 삼각형\기하 직사각형과 삼각형\obj\Debug\기하 직사각형과 삼각형.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\기하_직사각형과 삼각형\기하 직사각형과 삼각형\기하 직사각형과 삼각형\obj\Debug\기하 직사각형과 삼각형.pdb
