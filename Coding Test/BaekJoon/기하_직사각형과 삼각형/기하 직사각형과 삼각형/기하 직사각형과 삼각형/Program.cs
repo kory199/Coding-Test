@@ -10,7 +10,7 @@ namespace 기하_직사각형과_삼각형
     {
         static void Main(string[] args)
         {
-            _5073삼각형과세변.Solution();
+            _14215세막대.Solution();
         }
     }
 }
