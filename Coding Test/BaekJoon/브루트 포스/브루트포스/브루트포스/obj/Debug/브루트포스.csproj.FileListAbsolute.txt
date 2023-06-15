@@ -1,0 +1,7 @@
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\브루트 포스\브루트포스\브루트포스\bin\Debug\브루트포스.exe.config
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\브루트 포스\브루트포스\브루트포스\bin\Debug\브루트포스.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\브루트 포스\브루트포스\브루트포스\bin\Debug\브루트포스.pdb
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.csproj.AssemblyReference.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.csproj.CoreCompileInputs.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.pdb
