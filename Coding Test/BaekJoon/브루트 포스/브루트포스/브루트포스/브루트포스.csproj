@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{152EEFC2-A48D-45DA-8092-B37D92937486}</ProjectGuid>
+    <ProjectGuid>{ED9B58FC-BC8A-4E35-8D0E-8784C7B138ED}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>시간복잡도</RootNamespace>
-    <AssemblyName>시간복잡도</AssemblyName>
+    <RootNamespace>브루트포스</RootNamespace>
+    <AssemblyName>브루트포스</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,8 +45,11 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="알고리즘수업_알고리즘의수행시간1.cs" />
-    <Compile Include="알고리즘수업_알고리즘의수행시간2.cs" />
+    <Compile Include="분해합.cs" />
+    <Compile Include="블랙잭.cs" />
+    <Compile Include="수학은비대면강의입니다.cs" />
+    <Compile Include="수학은비대면강의입니다2.cs" />
+    <Compile Include="체스판다시칠하기.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
