@@ -1,0 +1,7 @@
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\GreedyAlgorithm.exe.config
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\GreedyAlgorithm.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\GreedyAlgorithm.pdb
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.csproj.AssemblyReference.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.pdb
