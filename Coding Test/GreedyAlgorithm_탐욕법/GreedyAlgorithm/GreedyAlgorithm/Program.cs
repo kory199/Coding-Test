@@ -10,7 +10,7 @@ namespace GreedyAlgorithm
     {
         static void Main(string[] args)
         {
-            그리디_1이될때까지.Solution();
+            그리디_곱하기혹은더하기.Solution();
         }
     }
 }

@@ -5,3 +5,11 @@ C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\GreedyAlgorithm_탐욕�
 C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.csproj.CoreCompileInputs.cache
 C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.exe
 C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.pdb
+E:\UnityProject\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\GreedyAlgorithm.exe.config
+E:\UnityProject\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\GreedyAlgorithm.exe
+E:\UnityProject\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\GreedyAlgorithm.pdb
+E:\UnityProject\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.csproj.AssemblyReference.cache
+E:\UnityProject\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.csproj.SuggestedBindingRedirects.cache
+E:\UnityProject\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.csproj.CoreCompileInputs.cache
+E:\UnityProject\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.exe
+E:\UnityProject\Coding-Test\Coding Test\GreedyAlgorithm_탐욕법\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.pdb
