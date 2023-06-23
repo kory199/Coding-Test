@@ -1,0 +1,7 @@
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\5. 재귀함수\재귀함수\재귀함수\bin\Debug\재귀함수.exe.config
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\5. 재귀함수\재귀함수\재귀함수\bin\Debug\재귀함수.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\5. 재귀함수\재귀함수\재귀함수\bin\Debug\재귀함수.pdb
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\5. 재귀함수\재귀함수\재귀함수\obj\Debug\재귀함수.csproj.AssemblyReference.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\5. 재귀함수\재귀함수\재귀함수\obj\Debug\재귀함수.csproj.CoreCompileInputs.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\5. 재귀함수\재귀함수\재귀함수\obj\Debug\재귀함수.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\5. 재귀함수\재귀함수\재귀함수\obj\Debug\재귀함수.pdb
