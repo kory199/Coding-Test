@@ -17,6 +17,7 @@ namespace 구현
     {
         public static void Solution()
         {
+            #region 내 풀이
             string inputStr = Console.ReadLine();
             List<char> inputChar = new List<char>();
             List<int> inputNum = new List<int>();
@@ -34,6 +35,44 @@ namespace 구현
             foreach (var i in inputChar)
                 Console.Write(i);
             Console.WriteLine(inputNum.Sum());
+            #endregion
+
+
+
+            #region 이코테 풀이
+            string str = Console.ReadLine();
+            List<char> result = new List<char>();
+            int value = 0;
+
+            // 문자를 하나씩 확인하며
+            for (int i = 0; i < str.Length; i++)
+            {
+                // 알파벳인 경우 결과 리스트에 삽입
+                if (char.IsLetter(str[i]))
+                {
+                    result.Add(str[i]);
+                }
+                // 숫자는 따로 더하기
+                else
+                {
+                    value += str[i] - '0';
+                }
+            }
+
+            // 알파벳을 오름차순으로 정렬
+            result.Sort();
+
+            // 알파벳을 차례대로 출력
+            for (int i = 0; i < result.Count; i++)
+            {
+                Console.Write(result[i]);
+            }
+
+            // 숫자가 하나라도 존재하는 경우 가장 뒤에 출력
+            if (value != 0)
+                Console.Write(value);
+            Console.WriteLine();
+            #endregion
         }
     }
 }
