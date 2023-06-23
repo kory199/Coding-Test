@@ -48,6 +48,7 @@
     <Compile Include="그리디_곱하기혹은더하기.cs" />
     <Compile Include="그리디_1이될때까지.cs" />
     <Compile Include="그리디_거스름돈.cs" />
+    <Compile Include="그리디_모험가 길드.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

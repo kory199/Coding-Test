@@ -26,7 +26,7 @@ namespace GreedyAlgorithm
             {
                 int transNum = int.Parse(inputStr[i + 1].ToString());
 
-                if (temp == 0 || temp == 1 || transNum == 0 || transNum == 1)
+                if (temp <= 1 || transNum <= 1)
                     temp += transNum;
                 else
                     temp *= transNum;
