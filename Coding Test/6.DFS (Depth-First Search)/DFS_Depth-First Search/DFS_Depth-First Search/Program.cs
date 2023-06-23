@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 재귀함수
+namespace DFS_Depth_First_Search
 {
     class Program
     {
         static void Main(string[] args)
         {
-            재귀함수_팩토리얼.Solution();
         }
     }
 }
