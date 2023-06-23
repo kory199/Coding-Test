@@ -10,7 +10,7 @@ namespace 구현
     {
         static void Main(string[] args)
         {
-            구현_시각.Solution();
+            구현_왕실의나이트.Solution();
         }
     }
 }
