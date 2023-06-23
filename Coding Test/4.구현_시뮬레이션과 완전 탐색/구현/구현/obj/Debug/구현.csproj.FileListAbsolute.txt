@@ -1,0 +1,7 @@
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\4.구현_시뮬레이션과 완전 탐색\구현\구현\bin\Debug\구현.exe.config
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\4.구현_시뮬레이션과 완전 탐색\구현\구현\bin\Debug\구현.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\4.구현_시뮬레이션과 완전 탐색\구현\구현\bin\Debug\구현.pdb
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\4.구현_시뮬레이션과 완전 탐색\구현\구현\obj\Debug\구현.csproj.AssemblyReference.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\4.구현_시뮬레이션과 완전 탐색\구현\구현\obj\Debug\구현.csproj.CoreCompileInputs.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\4.구현_시뮬레이션과 완전 탐색\구현\구현\obj\Debug\구현.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\4.구현_시뮬레이션과 완전 탐색\구현\구현\obj\Debug\구현.pdb
