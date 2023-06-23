@@ -10,7 +10,7 @@ namespace 구현
     {
         static void Main(string[] args)
         {
-            구현_상하좌우.Solution();
+            구현_시각.Solution();
         }
     }
 }
