@@ -10,7 +10,7 @@ namespace BFS
     {
         static void Main(string[] args)
         {
-            BFS_Queue.Solution();
+            BFS_미로탈출.Solution();
         }
     }
 }

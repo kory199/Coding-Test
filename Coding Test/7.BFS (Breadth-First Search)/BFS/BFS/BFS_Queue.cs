@@ -11,7 +11,7 @@ namespace BFS
         public static bool[] visitCheck = new bool[9];
         public static List<List<int>> node = new List<List<int>>();
 
-        public static void BFS(int findNode)
+        public void BFS(int findNode)
         {
             Queue<int> visiteNode = new Queue<int>();
             // 현재 노드 방문
@@ -37,7 +37,7 @@ namespace BFS
             }
         }
 
-        public static void Solution()
+        public void Solution()
         {
             // list 초기화
             for (int i = 0; i < 9; i++)
