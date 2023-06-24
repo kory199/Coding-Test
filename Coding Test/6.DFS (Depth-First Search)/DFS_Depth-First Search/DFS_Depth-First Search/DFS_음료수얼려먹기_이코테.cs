@@ -12,11 +12,12 @@ namespace DFS_Depth_First_Search
      * 서로 연결되어 있는 것으로 간주합니다. 이때, 얼음 틀의 모양이 주어졌을 떄 생성되는
      * 총 아이크스림의 개수를 구하는 프로그램을 작성하세요.
      */
-    class DFS_음료수얼려먹기
+    class DFS_음료수얼려먹기_이코테
     {
         static int n, m;
         static int[,] graph = new int[1000, 1000];
 
+        #region 이코테 풀이
         public static bool DFS(int x, int y)
         {
             // 주어진 범위를 벗어나는 경우에는 즉시 종료
@@ -71,5 +72,6 @@ namespace DFS_Depth_First_Search
             }
             Console.WriteLine(result); // 정답 출력
         }
+        #endregion
     }
 }

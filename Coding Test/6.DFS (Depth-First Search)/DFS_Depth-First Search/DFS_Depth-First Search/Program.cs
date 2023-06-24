@@ -19,7 +19,7 @@ namespace DFS_Depth_First_Search
     {
         static void Main(string[] args)
         {
-            DFS_음료수얼려먹기.Solution();
+            DFS_음료수얼려먹기_내풀이.Solution();
         }
     }
 }
