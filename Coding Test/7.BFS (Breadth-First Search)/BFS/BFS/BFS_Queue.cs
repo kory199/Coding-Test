@@ -22,11 +22,11 @@ namespace BFS
             while (visiteNode.Count > 0)
             {
                 // 방문한 노드를 출력하고 Dequeue
-                int childNode = visiteNode.Dequeue();
-                Console.Write($"{childNode} ");
+                int curNode = visiteNode.Dequeue();
+                Console.Write($"{curNode} ");
 
                 // 해당 노드와 연결된 노드 중 방문하지 않은 노드를 큐에 삽입
-                foreach (var i in node[childNode])
+                foreach (var i in node[curNode])
                 {
                     if (!visitCheck[i])
                     {
