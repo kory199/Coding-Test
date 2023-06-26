@@ -1,0 +1,7 @@
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\8.정렬 알고리즘 (Sort Algorithm)\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe.config
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\8.정렬 알고리즘 (Sort Algorithm)\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\8.정렬 알고리즘 (Sort Algorithm)\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\8.정렬 알고리즘 (Sort Algorithm)\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.AssemblyReference.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\8.정렬 알고리즘 (Sort Algorithm)\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\8.정렬 알고리즘 (Sort Algorithm)\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.exe
+C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\8.정렬 알고리즘 (Sort Algorithm)\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.pdb

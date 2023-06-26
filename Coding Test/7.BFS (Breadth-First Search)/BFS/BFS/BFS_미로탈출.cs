@@ -21,7 +21,8 @@ namespace BFS
      */
     public static class BFS_미로탈출
     {
-        public static int n, m;
+        public static int n = 0;
+        public static int m = 0;
         public static int[,] graph = new int[201, 201];
 
         // 이동할 네 가지 방향 정의 (상, 하, 좌, 우)
@@ -30,7 +31,7 @@ namespace BFS
 
         public static int BFSFunc(int x, int y)
         {
-            // 큐(Queue) 구현을 위해 Queue 라이브러리 사용
+            // 큐(Queue) 구현
             Queue<Node> q = new Queue<Node>();
             q.Enqueue(new Node(x, y));
 
