@@ -17,7 +17,7 @@ namespace SortAlgorithm
      * 수행하여 만들 수 있는 배열 A의 모든 원소의 합의 최댓값을 출력하는 프로그램을
      * 작성하시오.
      */
-    class 두배열의원소교체
+    class 이코테_두배열의원소교체
     {
         public static void Solution()
         {
@@ -46,7 +46,10 @@ namespace SortAlgorithm
             Array.Reverse(B);
 
             for (int i = 0; i < k; i++)
-                A[i] = B[i];
+            {
+                if (A[i] < B[i])
+                    A[i] = B[i];
+            }
 
             for (int i = 0; i < A.Length; i++)
                 answer += A[i];
