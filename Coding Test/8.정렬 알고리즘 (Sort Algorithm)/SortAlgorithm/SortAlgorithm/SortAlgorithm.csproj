@@ -49,6 +49,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QuickSort.cs" />
     <Compile Include="SelectionSort.cs" />
+    <Compile Include="두배열의원소교체.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

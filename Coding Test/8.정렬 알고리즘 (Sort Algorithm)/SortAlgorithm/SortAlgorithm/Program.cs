@@ -10,7 +10,7 @@ namespace SortAlgorithm
     {
         static void Main(string[] args)
         {
-            CountingSort.Solution();
+            두배열의원소교체.Solution();
         }
     }
 }

@@ -25,6 +25,7 @@ namespace SortAlgorithm
             for (int i = 0; i < array.Length; i++)
                 count[array[i]]++;
 
+
             for (int i = 0; i < count.Length; i++)
             {
                 for (int j = 0; j < count[i]; j++)
@@ -32,6 +33,7 @@ namespace SortAlgorithm
                     Console.Write(i + " ");
                 }
             }
+
         }
     }
 }
