@@ -10,7 +10,7 @@ namespace SortAlgorithm
     {
         static void Main(string[] args)
         {
-            QuickSort.Solution();
+            CountingSort.Solution();
         }
     }
 }
