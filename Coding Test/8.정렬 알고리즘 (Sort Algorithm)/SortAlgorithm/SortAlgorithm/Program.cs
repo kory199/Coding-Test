@@ -10,7 +10,7 @@ namespace SortAlgorithm
     {
         static void Main(string[] args)
         {
-            두배열의원소교체.Solution();
+            이코테_두배열의원소교체.Solution();
         }
     }
 }

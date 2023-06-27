@@ -10,9 +10,9 @@ namespace 프로그래머스
     {
         static void Main(string[] args)
         {
-            string t = "10203";
-            string p = "15";
-            LV1크기가작은부분문자열.solution(t, p);
+            int[] array = { 1, 5, 2, 6, 3, 7, 4 };
+            int[,] com = { { 2, 5, 3 }, { 4, 4, 1 }, { 1, 7, 3 } };
+            LV1_K번쨰수.solution(array, com);
         }
     }
 }

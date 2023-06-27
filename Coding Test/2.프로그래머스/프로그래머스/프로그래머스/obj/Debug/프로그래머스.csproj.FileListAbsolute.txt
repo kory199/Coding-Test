@@ -1,7 +1,0 @@
-C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\프로그래머스\프로그래머스\프로그래머스\bin\Debug\프로그래머스.exe.config
-C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\프로그래머스\프로그래머스\프로그래머스\bin\Debug\프로그래머스.exe
-C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\프로그래머스\프로그래머스\프로그래머스\bin\Debug\프로그래머스.pdb
-C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\프로그래머스\프로그래머스\프로그래머스\obj\Debug\프로그래머스.csproj.AssemblyReference.cache
-C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\프로그래머스\프로그래머스\프로그래머스\obj\Debug\프로그래머스.csproj.CoreCompileInputs.cache
-C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\프로그래머스\프로그래머스\프로그래머스\obj\Debug\프로그래머스.exe
-C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\프로그래머스\프로그래머스\프로그래머스\obj\Debug\프로그래머스.pdb

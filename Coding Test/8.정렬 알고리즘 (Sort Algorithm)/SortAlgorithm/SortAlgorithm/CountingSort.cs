@@ -15,7 +15,7 @@ namespace SortAlgorithm
      * 데이터의 개수가 N, 데이터(양수) 중 최댓값이 K일 떄
      * 최악의 경우에도 수행 시간 O(N+K)를 보장
      */
-    class 2_CountingSort
+    class CountingSort
     {
         public static void Solution()
         {
