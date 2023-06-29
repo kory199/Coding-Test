@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LV1_K번쨰수.cs" />
+    <Compile Include="LV1_최소직사각형.cs" />
     <Compile Include="LV1개인정보수집유효기간.cs" />
     <Compile Include="LV1둘만의암호.cs" />
     <Compile Include="LV1크기가작은부분문자열.cs" />

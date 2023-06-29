@@ -12,3 +12,11 @@ C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\2.프로그래머스\�
 C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\2.프로그래머스\프로그래머스_LV1\프로그래머스\bin\Debug\프로그래머스.exe.config
 C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\2.프로그래머스\프로그래머스_LV1\프로그래머스\bin\Debug\프로그래머스.exe
 C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\2.프로그래머스\프로그래머스_LV1\프로그래머스\bin\Debug\프로그래머스.pdb
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\2.프로그래머스\프로그래머스_LV1\프로그래머스\bin\Debug\프로그래머스.exe.config
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\2.프로그래머스\프로그래머스_LV1\프로그래머스\bin\Debug\프로그래머스.exe
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\2.프로그래머스\프로그래머스_LV1\프로그래머스\bin\Debug\프로그래머스.pdb
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\2.프로그래머스\프로그래머스_LV1\프로그래머스\obj\Debug\프로그래머스.csproj.AssemblyReference.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\2.프로그래머스\프로그래머스_LV1\프로그래머스\obj\Debug\프로그래머스.csproj.SuggestedBindingRedirects.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\2.프로그래머스\프로그래머스_LV1\프로그래머스\obj\Debug\프로그래머스.csproj.CoreCompileInputs.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\2.프로그래머스\프로그래머스_LV1\프로그래머스\obj\Debug\프로그래머스.exe
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\2.프로그래머스\프로그래머스_LV1\프로그래머스\obj\Debug\프로그래머스.pdb

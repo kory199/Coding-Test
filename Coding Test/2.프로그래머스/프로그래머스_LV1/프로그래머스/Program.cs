@@ -10,9 +10,8 @@ namespace 프로그래머스
     {
         static void Main(string[] args)
         {
-            int[] array = { 1, 5, 2, 6, 3, 7, 4 };
-            int[,] com = { { 2, 5, 3 }, { 4, 4, 1 }, { 1, 7, 3 } };
-            LV1_K번쨰수.solution(array, com);
+            int[,] aa = { { 10, 7 }, { 12, 3 }, { 8, 15 }, { 14, 7 }, { 5, 15 } };
+            LV1_최소직사각형.solution(aa);
         }
     }
 }
