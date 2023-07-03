@@ -1,0 +1,8 @@
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\정렬\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe.config
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\정렬\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\정렬\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\정렬\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.AssemblyReference.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\정렬\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.SuggestedBindingRedirects.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\정렬\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.CoreCompileInputs.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\정렬\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.exe
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\정렬\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.pdb
