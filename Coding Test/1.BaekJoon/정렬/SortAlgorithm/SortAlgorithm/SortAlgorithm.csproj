@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="대표값2.cs" />
+    <Compile Include="소트인사이드.cs" />
     <Compile Include="수 정렬하기.cs" />
     <Compile Include="수 정렬하기2.cs" />
     <Compile Include="수 정렬하기3.cs" />
