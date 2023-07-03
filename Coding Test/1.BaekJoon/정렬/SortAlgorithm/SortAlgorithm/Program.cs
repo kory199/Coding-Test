@@ -10,7 +10,7 @@ namespace SortAlgorithm
     {
         static void Main(string[] args)
         {
-            단어_정렬.Solution();
+            나이순_정렬.Solution();
         }
     }
 }
