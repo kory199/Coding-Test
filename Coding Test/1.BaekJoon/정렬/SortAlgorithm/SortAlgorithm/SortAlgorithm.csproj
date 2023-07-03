@@ -51,6 +51,7 @@
     <Compile Include="수 정렬하기2.cs" />
     <Compile Include="수 정렬하기3.cs" />
     <Compile Include="좌표 정렬하기.cs" />
+    <Compile Include="좌표 정렬하기2.cs" />
     <Compile Include="커트라인.cs" />
   </ItemGroup>
   <ItemGroup>
