@@ -10,7 +10,7 @@ namespace SortAlgorithm
     {
         static void Main(string[] args)
         {
-            수_정렬하기.Solution();
+            대표값2.Solution();
         }
     }
 }
