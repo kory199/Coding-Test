@@ -5,3 +5,11 @@ C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\브루트 포�
 C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.csproj.CoreCompileInputs.cache
 C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.exe
 C:\Users\SSH\Desktop\Coding Test\Coding-Test\Coding Test\BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.pdb
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\브루트 포스\브루트포스\브루트포스\bin\Debug\브루트포스.exe.config
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\브루트 포스\브루트포스\브루트포스\bin\Debug\브루트포스.exe
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\브루트 포스\브루트포스\브루트포스\bin\Debug\브루트포스.pdb
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.csproj.AssemblyReference.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.csproj.SuggestedBindingRedirects.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.csproj.CoreCompileInputs.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.exe
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\브루트 포스\브루트포스\브루트포스\obj\Debug\브루트포스.pdb

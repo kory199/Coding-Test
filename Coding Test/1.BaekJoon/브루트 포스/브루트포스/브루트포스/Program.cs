@@ -10,7 +10,7 @@ namespace 브루트포스
     {
         static void Main(string[] args)
         {
-            체스판다시칠하기.Solution();
+            영화감독숌.Solution();
         }
     }
 }

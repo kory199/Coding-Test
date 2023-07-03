@@ -49,6 +49,7 @@
     <Compile Include="블랙잭.cs" />
     <Compile Include="수학은비대면강의입니다.cs" />
     <Compile Include="수학은비대면강의입니다2.cs" />
+    <Compile Include="영화감독숌.cs" />
     <Compile Include="체스판다시칠하기.cs" />
   </ItemGroup>
   <ItemGroup>
