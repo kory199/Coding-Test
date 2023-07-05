@@ -10,7 +10,7 @@ namespace 집합과_맵
     {
         static void Main(string[] args)
         {
-            회사에_있는_사람.Solution();
+            나는야_포켓몬_마스터_이다솜.SolutionDic();
         }
     }
 }
