@@ -10,7 +10,7 @@ namespace 집합과_맵
     {
         static void Main(string[] args)
         {
-            듣보잡.Solution();
+            대칭_차집합.Solution();
         }
     }
 }
