@@ -48,6 +48,7 @@
     <Compile Include="나는야 포켓몬 마스터 이다솜.cs" />
     <Compile Include="문자열 집합.cs" />
     <Compile Include="숫자 카드.cs" />
+    <Compile Include="숫자 카드2.cs" />
     <Compile Include="회사에 있는 사람.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -10,7 +10,7 @@ namespace 집합과_맵
     {
         static void Main(string[] args)
         {
-            나는야_포켓몬_마스터_이다솜.SolutionDic();
+            숫자_카드2.Solution();
         }
     }
 }
