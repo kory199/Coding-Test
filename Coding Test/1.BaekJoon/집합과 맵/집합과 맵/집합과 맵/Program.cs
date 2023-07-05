@@ -10,7 +10,7 @@ namespace 집합과_맵
     {
         static void Main(string[] args)
         {
-            숫자_카드.Solution();
+            문자열_집합.SolutionHashSet();
         }
     }
 }
