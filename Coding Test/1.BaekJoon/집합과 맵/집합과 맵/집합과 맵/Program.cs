@@ -10,7 +10,7 @@ namespace 집합과_맵
     {
         static void Main(string[] args)
         {
-            대칭_차집합.Solution();
+            서로_다른_부분_문자열의_개수.Solution();
         }
     }
 }
