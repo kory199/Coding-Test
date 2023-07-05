@@ -10,7 +10,7 @@ namespace 집합과_맵
     {
         static void Main(string[] args)
         {
-            문자열_집합.SolutionHashSet();
+            회사에_있는_사람.Solution();
         }
     }
 }
