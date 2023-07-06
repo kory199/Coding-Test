@@ -11,7 +11,7 @@ namespace BaekJoonStack
     {
         static void Main(string[] args)
         {
-            _9012_괄호.Solution();
+            _4949_균형잡힌_세상.Solution();
         }
     }
 }

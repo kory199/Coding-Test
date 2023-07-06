@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="10773 제로.cs" />
     <Compile Include="10828_스택.cs" />
+    <Compile Include="4949 균형잡힌 세상.cs" />
     <Compile Include="9012 괄호.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
