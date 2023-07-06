@@ -1,0 +1,8 @@
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\스택\BaekJoonStack\BaekJoonStack\bin\Debug\BaekJoonStack.exe.config
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\스택\BaekJoonStack\BaekJoonStack\bin\Debug\BaekJoonStack.exe
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\스택\BaekJoonStack\BaekJoonStack\bin\Debug\BaekJoonStack.pdb
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\스택\BaekJoonStack\BaekJoonStack\obj\Debug\BaekJoonStack.csproj.AssemblyReference.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\스택\BaekJoonStack\BaekJoonStack\obj\Debug\BaekJoonStack.csproj.SuggestedBindingRedirects.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\스택\BaekJoonStack\BaekJoonStack\obj\Debug\BaekJoonStack.csproj.CoreCompileInputs.cache
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\스택\BaekJoonStack\BaekJoonStack\obj\Debug\BaekJoonStack.exe
+E:\UnityProject\Coding-Test\Coding-Test\Coding Test\1.BaekJoon\스택\BaekJoonStack\BaekJoonStack\obj\Debug\BaekJoonStack.pdb
