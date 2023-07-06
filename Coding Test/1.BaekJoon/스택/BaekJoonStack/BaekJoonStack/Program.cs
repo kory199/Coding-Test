@@ -11,7 +11,7 @@ namespace BaekJoonStack
     {
         static void Main(string[] args)
         {
-            _10773_제로.Solution();
+            _9012_괄호.Solution();
         }
     }
 }
