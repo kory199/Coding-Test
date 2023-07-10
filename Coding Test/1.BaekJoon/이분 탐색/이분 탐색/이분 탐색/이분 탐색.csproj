@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{24999412-B928-4BA6-B432-6911723F3F72}</ProjectGuid>
+    <ProjectGuid>{E70785F1-88CD-4BF8-9113-CD837D196D2C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>집합과_맵</RootNamespace>
-    <AssemblyName>집합과 맵</AssemblyName>
+    <RootNamespace>이분_탐색</RootNamespace>
+    <AssemblyName>이분 탐색</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1874 스택 수열.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="나는야 포켓몬 마스터 이다솜.cs" />
-    <Compile Include="대칭 차집합.cs" />
-    <Compile Include="듣보잡.cs" />
-    <Compile Include="문자열 집합.cs" />
-    <Compile Include="서로 다른 부분 문자열의 개수.cs" />
-    <Compile Include="숫자 카드.cs" />
-    <Compile Include="숫자 카드2.cs" />
-    <Compile Include="회사에 있는 사람.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
